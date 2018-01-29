@@ -1,6 +1,6 @@
 # Well, this is based on the original work by the TensorFlow team:
 # tensorflow/examples/tutorials/mnist/mnist_deep.py
-# I believe they should get their due credit for the that work.
+# I believe they should get their due credit for that work.
 # This is new work.
 # ==============================================================================
 
